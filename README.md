@@ -78,3 +78,6 @@ The proposed system consists of the following components:
 11. Conclusion
 
 The Smart Bedside Patient Monitoring & Nurse Call System is an educational prototype designed to improve communication between patients and nurses. By combining a web dashboard, nurse-call workflow, sample vital-sign displays, and simulated alerts, the project demonstrates how technology can support patient assistance and caregiver response tracking.
+
+Team Leader:
+   Kavitha M - kavithasrivi2007@gmail.com - 9080240654
