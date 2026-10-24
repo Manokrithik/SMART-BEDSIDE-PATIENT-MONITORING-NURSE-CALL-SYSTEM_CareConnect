@@ -24,7 +24,7 @@ The system allows patients to request assistance through a touchscreen interface
 
 Frontend: HTML, CSS, JavaScript
 Microcontroller: ESP32 for planned hardware integration
-Pulse and SpO₂ Sensor: MAX30102 (optional)
+Pulse and SpO₂ Sensor: MAX30102 
 Other Vital Signs: Suitable sensors are required for temperature, blood pressure, and respiratory rate
 Alert System: Rule-based demonstration alerts
 Reporting: CSV export and browser-based PDF printing
@@ -36,9 +36,9 @@ The current prototype does not include a trained AI/ML model. It demonstrates ru
 
 6. Project Demonstration Video
 
-Video Duration: Minimum 20 minutes
+Video Duration: 20 minutes
 
-Video Link:
+Video Link: https://drive.google.com/file/d/1wPfmIHNZNbXSbz3eeZGkQKjoVkJvluWg/view?usp=drivesdk
 
 The demonstration video explains the project introduction, problem statement, healthcare use case, technical components, system architecture, dashboard features, nurse-call workflow, alert simulations, report generation, project outcomes, and future improvements.
 
@@ -56,8 +56,6 @@ The proposed system consists of the following components:
 4. Web dashboard for displaying readings and nurse-call requests.
 5. Alert module for simulated warnings and request escalation.
 6. Report module for exporting monitoring data.
-
-Architecture Diagram: ``
 
 9. Project Outcomes
 
